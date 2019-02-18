@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteNamespace", "Cute\CuteNamespace.csproj", "{D6EAD8B0-E9CD-4F97-89E4-C32346644C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteTest", "CuteTest\CuteTest.csproj", "{BCA96816-6C4C-4545-AC2E-9384A8197BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6EAD8B0-E9CD-4F97-89E4-C32346644C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EAD8B0-E9CD-4F97-89E4-C32346644C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EAD8B0-E9CD-4F97-89E4-C32346644C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EAD8B0-E9CD-4F97-89E4-C32346644C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA96816-6C4C-4545-AC2E-9384A8197BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA96816-6C4C-4545-AC2E-9384A8197BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA96816-6C4C-4545-AC2E-9384A8197BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA96816-6C4C-4545-AC2E-9384A8197BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

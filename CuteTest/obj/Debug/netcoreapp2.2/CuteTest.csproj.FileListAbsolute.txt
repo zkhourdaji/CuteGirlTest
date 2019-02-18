@@ -1,0 +1,17 @@
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.csprojAssemblyReference.cache
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.csproj.CoreCompileInputs.cache
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.AssemblyInfoInputs.cache
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.AssemblyInfo.cs
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteTest.deps.json
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteTest.runtimeconfig.json
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteTest.runtimeconfig.dev.json
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteTest.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteTest.pdb
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteNamespace.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/bin/Debug/netcoreapp2.2/CuteNamespace.pdb
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.csproj.CopyComplete
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.dll
+/Users/zaferkhourdaji/Projects/Cute/CuteTest/obj/Debug/netcoreapp2.2/CuteTest.pdb

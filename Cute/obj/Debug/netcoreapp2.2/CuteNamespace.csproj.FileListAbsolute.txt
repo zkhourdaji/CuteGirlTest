@@ -1,0 +1,11 @@
+/Users/zaferkhourdaji/Projects/Cute/Cute/bin/Debug/netcoreapp2.2/CuteNamespace.deps.json
+/Users/zaferkhourdaji/Projects/Cute/Cute/bin/Debug/netcoreapp2.2/CuteNamespace.runtimeconfig.json
+/Users/zaferkhourdaji/Projects/Cute/Cute/bin/Debug/netcoreapp2.2/CuteNamespace.runtimeconfig.dev.json
+/Users/zaferkhourdaji/Projects/Cute/Cute/bin/Debug/netcoreapp2.2/CuteNamespace.dll
+/Users/zaferkhourdaji/Projects/Cute/Cute/bin/Debug/netcoreapp2.2/CuteNamespace.pdb
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.csproj.CoreCompileInputs.cache
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.AssemblyInfoInputs.cache
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.AssemblyInfo.cs
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.dll
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.pdb
+/Users/zaferkhourdaji/Projects/Cute/Cute/obj/Debug/netcoreapp2.2/CuteNamespace.csprojAssemblyReference.cache
